@@ -1,0 +1,9 @@
+.Profile-container {
+	width: 50%;
+	margin: 10px auto;
+}
+
+.Profile-avatar {
+	width: 150px;
+	border-radius: 50%;
+}

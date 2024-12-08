@@ -1,0 +1,33 @@
+.Profile-container ul {
+	list-style: none;
+	padding: 0;
+	text-align: left;
+	max-width: 560px;
+	margin: 0 auto;
+}
+
+.Profile-container ul > li {
+	display: flex;
+	justify-content: space-between;
+}
+
+.Profile-container ul > li > span {
+	font-weight: 600;
+}
+
+.Projects-container ul {
+	list-style: none;
+	padding: 0;
+	text-align: left;
+	max-width: 500px;
+	margin: 0 auto;
+}
+
+.Projects-container ul > li {
+	display: flex;
+	justify-content: space-between;
+}
+
+.Projects-container ul > li > span {
+	font-weight: 600;
+}
